@@ -1,12 +1,11 @@
 
 <a href="#"><img src="https://github.com/ShriAmbhikesh/ShriAmbhikesh/blob/main/gifgit.gif" align="left"/> <a/>
  &nbsp; [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I+am+Ambhikesh)](https://git.io/typing-svg)
-<center><p>&nbsp A Computer Architecture enthusiast</p><center/>
-    <center><p>&nbsp Studying B.Tech in Computer Science and Engineering, PES University,Bangalore,India<p></center>
+ &nbsp;&nbsp; <center><p> Studying B.Tech in Computer Science and Engineering, PES University,Bangalore,India<p></center>
 <br/>
 <br/>
 <br/>
-
+<br/>
 <center><h1>💻Languages</h1></center>
 <p align="center">
     <a href="#">
@@ -14,12 +13,12 @@
  </a>
 </p>
 
-<center><h1>💼Libraries and Frameworks</h1></center>
+<!--center><h1>💼Libraries and Frameworks</h1></center>
 <p align="center">
    <a href="#">
     <img src="https://skillicons.dev/icons?i=bootstrap,express,jquery,materialui,django,pytorch,tensorflow" /> &nbsp <img height="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST" />&nbsp<img height="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js" />
  </a>
-</p>
+</p-->
 
  <center><h1>⚙️Tools</h1></center>
 <p align="center">
@@ -28,12 +27,12 @@
  </a>
 </p>
 
-<center><h1>📚Currently learning</h1></center>
+<!--center><h1>📚Currently learning</h1></center>
 <p align="center">
   <a>
     <img src="https://skillicons.dev/icons?i=redis,sqlite,postgresql" /> 
  </a>
-</p>
+</p-->
 
 <br/>
 <br/>
