@@ -3,6 +3,7 @@
  &nbsp; [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&duration=2000&pause=500&color=F76C0D&multiline=true&random=true&width=435&lines=Hi+I+am+Ambhikesh)](https://git.io/typing-svg)
  &nbsp;&nbsp; <center><p> Studying B.Tech in Computer Science and Engineering, PES University,Bangalore,India<p></center>
 <br/>
+![visitors](https://komarev.com/ghpvc/?username=anshulbaliga7&color=orange)
 <br/>
 <br/>
 <br/>
